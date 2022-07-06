@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TysonTang
+- 👋 Hi, I’m @tysonking33
 - 👀 I’m interested in coding, sports and learning new things.
 - 🌱 I’m currently learning c, c++, matlab, however I want to expand to other languages as well.
 - 💞️ I’m looking to collaborate on ...
