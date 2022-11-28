@@ -4,7 +4,6 @@
 - 📫 How to reach me:
 
 tysontang614@gmail.com |
-0482-654-722 |
 linkedin.com/in/tyson-tang-182287204
 
 
