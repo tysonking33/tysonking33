@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tysonking33
-- 👀 I’m interested in coding, sports and learning new things.
 - 🌱 I’m currently learning c, c++, matlab.
 - 📫 How to reach me:
 
