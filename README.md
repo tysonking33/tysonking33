@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tysonking33
+- 👋 Hi, I’m @tyson
 - 🌱 I’m currently learning c, c++, matlab.
 - 📫 How to reach me:
 
