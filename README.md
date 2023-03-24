@@ -3,7 +3,7 @@
 - 📫 How to reach me:
 
 tysontang614@gmail.com |
-linkedin.com/in/tyson-tang-182287204
+https://www.linkedin.com/in/tysontang/
 
 
 <!---
