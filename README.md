@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tyson
-- 🌱 I’m currently learning c, c++, matlab.
+- 🌱 I’m currently learning c, c++, matlab, python
 - 📫 How to reach me:
 
 tysontang614@gmail.com |
